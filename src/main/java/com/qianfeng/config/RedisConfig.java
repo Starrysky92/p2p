@@ -20,6 +20,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Method;
 
+
 /**
  * Created by Administrator on 2017/9/13 0013.
  */

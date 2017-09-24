@@ -37,6 +37,8 @@ public class RedisConfig extends CachingConfigurerSupport{
 //
 //    }
 
+
+
     @Override
     public KeyGenerator keyGenerator(){
         return new KeyGenerator() {
